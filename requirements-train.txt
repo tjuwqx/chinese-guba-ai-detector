@@ -1,0 +1,4 @@
+-r requirements.txt
+datasets==5.0.0
+accelerate==1.14.0
+scikit-learn==1.7.2

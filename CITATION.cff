@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software and the upstream C-ReD and Chinese-BERT-wwm papers."
+title: "Chinese Guba AI Detector"
+type: software
+authors:
+  - name: "tjuwqx"
+version: "1.0.0"
+date-released: "2026-09-18"
+license: MIT
+url: "https://github.com/tjuwqx/chinese-guba-ai-detector"
+abstract: "Source code for Chinese AI-text detection trained on C-ReD with an HFL encoder. Weights are not distributed pending clarification of upstream terms."

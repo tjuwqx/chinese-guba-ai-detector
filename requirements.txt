@@ -1,0 +1,7 @@
+# Tested on Python 3.10; install the appropriate official PyTorch wheel first.
+torch==2.5.1
+transformers==4.46.3
+tokenizers==0.20.3
+safetensors==0.8.0
+numpy==2.2.6
+huggingface-hub==0.36.2
